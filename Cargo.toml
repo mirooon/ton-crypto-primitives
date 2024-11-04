@@ -1,6 +1,13 @@
 [package]
 name = "ton-crypto-primitives"
 version = "0.1.0"
+authors = ["Michał Mirończuk <michalmironczuk1@gmail.com>"]
+description = "TON crypto primitives"
+license = "MIT"
+repository = "https://github.com/mirooon/ton-crypto-primitives"
+documentation = "https://docs.rs/ton-crypto-primitives"
+keywords = ["ton", "blockchain", "crypto", "primitives"]
+categories = ["crypto", "ton"]
 edition = "2021"
 
 [dependencies]
