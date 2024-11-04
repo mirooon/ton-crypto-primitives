@@ -7,7 +7,7 @@ license = "MIT"
 repository = "https://github.com/mirooon/ton-crypto-primitives"
 documentation = "https://docs.rs/ton-crypto-primitives"
 keywords = ["ton", "blockchain", "crypto", "primitives"]
-categories = ["Cryptography"]
+categories = ["cryptography"]
 edition = "2021"
 
 [dependencies]
